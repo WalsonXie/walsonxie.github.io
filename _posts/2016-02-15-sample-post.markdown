@@ -5,4 +5,4 @@ date: 2020-4-26 16:32:24.000000000 +09:00
 ---
 
 ![image]
-("https://github.com/walsonxie/walsonxie.github.io/assets/images/1.gif")
+("walsonxie/walsonxie.github.io/assets/images/1.gif")
