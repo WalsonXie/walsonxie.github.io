@@ -5,5 +5,5 @@ date: 2020-4-26 16:32:24.000000000 +09:00
 ---
 
 ![image]
-("https://choicech.com.cn/assets/images/1.gif")
+("https://github.com/WalsonXie/walsonxie.github.io/assets/images/1.gif")
 
